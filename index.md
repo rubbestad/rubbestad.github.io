@@ -13,11 +13,11 @@ App for extreme marathon runners. Keeps track of nutrient and water intake durin
 ### Design and branding
 <img src="images/NikiOcean2.png?raw=true"/><br>
 <b>Niki boards</b><br>
-Surfboard company rebranding<br><br>
+Surfboard company rebranding<br><br><br>
 
 <img src="images/SoBMockup.png?raw=true"/><br>
 <b>Sons of Bali</b><br>
-Merchendise wear for Hanif Bali<br><br>
+Merchandise apparel for Hanif Bali<br><br><br>
 
 <img src="imagesmontiniCards.png?raw=true"/><br>
 - [Ur & Penn](http://example.com/)<br>
