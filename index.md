@@ -3,8 +3,8 @@
 ---
 
 ### Application 
-<img src="images/iPhoneMarathonWLogo.png?raw=true"/><br>
-[Ultra marathon](/sample_page)
+<img src="images/iPhoneMarathonWLogo.png?raw=true"/>
+Ultra marathon
 
 
 ---
