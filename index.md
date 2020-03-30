@@ -15,7 +15,7 @@ App for extreme marathon runners. Keeps track of nutrient and water intake durin
 <b>Niki boards</b><br>
 Surfboard company rebranding<br><br><br>
 
-<img src="images/SoBMockup.png?raw=true"/><br>
+<img src="images/SoBbanner.png?raw=true"/><br>
 <b>Sons of Bali</b><br>
 Merchandise apparel for Hanif Bali<br><br><br>
 
