@@ -19,7 +19,7 @@ Surfboard company rebranding<br><br><br>
 <b>Sons of Bali</b><br>
 Merchandise apparel for Hanif Bali<br><br><br>
 
-<img src="imagesmontiniCards.png?raw=true"/><br>
+<img src="images/montiniCards.png?raw=true"/><br>
 - [Ur & Penn](http://example.com/)<br>
 
 <img src="images/SpaceRaid80.png?raw=true"/><br>
