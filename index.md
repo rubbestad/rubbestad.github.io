@@ -21,10 +21,7 @@ Merchandise apparel for Hanif Bali<br><br><br>
 
 <img src="images/montiniCards.jpg?raw=true"/><br>
 <b>Montini</b><br>
-Product packaging for jewlery company
-
-<img src="images/SpaceRaid80.png?raw=true"/><br>
-- [Space Raid](http://example.com/)<br>
+Jewlery product packaging
 
 ---
 
