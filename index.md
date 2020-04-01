@@ -14,7 +14,7 @@ App for extreme marathon runners. Keeps track of nutrient and water intake durin
 
 <img src="images/GlennsittningGIF.gif?raw=true"/><br>
 <b>Glennsittning</b><br>
-Banner for annual Glennsittning event at KTH Royal Institute of Technology
+Banner for annual Glennsittning event at KTH Royal Institute of Technology<br><br>
 
 <img src="images/NikiOcean2.png?raw=true"/><br>
 <b>Niki boards</b><br>
@@ -28,11 +28,11 @@ Merchandise apparel for Hanif Bali<br><br><br>
 <b>Montini</b><br>
 Jewlery product packaging
 
-<img src="images/Mindgames.png?raw=true"/><br>
+<img src="images/Mindgames.PNG?raw=true"/><br>
 <b>Mindgames</b><br>
 Video game company
 
-<img src="images/Spaceraid.png?raw=true"/><br>
+<img src="images/Spaceraid.PNG?raw=true"/><br>
 <b>Space raid</b><br>
 80's theme video game
 
