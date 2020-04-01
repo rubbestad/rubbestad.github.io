@@ -32,7 +32,7 @@ Jewlery product packaging<br><br><br>
 <b>Mindgames</b><br>
 Video game company<br><br><br>
 
-<img src="images/Spaceraid.PNG?raw=true"/><br>
+<img src="images/SpaceraidCrop.png?raw=true"/><br>
 <b>Space raid</b><br>
 80's theme video game<br><br><br>
 
